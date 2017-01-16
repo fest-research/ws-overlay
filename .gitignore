@@ -1,0 +1,10 @@
+*~
+.fuse_hidden*
+.*.sw[a-z]
+*.un~
+Session.vim
+.DS_Store
+.idea
+
+worker/squirrel-worker
+master/squirrel-master
